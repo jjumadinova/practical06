@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practicalsix.TestDoublyLinkedList" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-06T02:25:02" hostname="59802fd1f8d9" time="0.012">
+  <properties/>
+  <testcase name="testConstructDoublyLinkedListNotNull" classname="practicalsix.TestDoublyLinkedList" time="0.008"/>
+  <testcase name="testConstructDoublyLinkedListCorrectInitialState" classname="practicalsix.TestDoublyLinkedList" time="0.0"/>
+  <testcase name="testDoublyLinkedListAfterAddFirst" classname="practicalsix.TestDoublyLinkedList" time="0.0"/>
+  <testcase name="testDoublyLinkedListAfterAddFirstAndRemoveFirst" classname="practicalsix.TestDoublyLinkedList" time="0.0"/>
+  <testcase name="testDoublyLinkedListAfterAddLastAndRemoveLast" classname="practicalsix.TestDoublyLinkedList" time="0.0"/>
+  <testcase name="testDoublyLinkedListAfterAddLast" classname="practicalsix.TestDoublyLinkedList" time="0.0"/>
+  <testcase name="testDoublyLinkedListAfterAddLastAndRemoveFirst" classname="practicalsix.TestDoublyLinkedList" time="0.0"/>
+  <testcase name="testDoublyLinkedListAfterAddFirstAddLast" classname="practicalsix.TestDoublyLinkedList" time="0.0"/>
+  <testcase name="testDoublyLinkedListAfterAddLastAddFirst" classname="practicalsix.TestDoublyLinkedList" time="0.0"/>
+  <testcase name="testAddManyStringsToLinkedListWithAddFirstAndThenRemoveLast" classname="practicalsix.TestDoublyLinkedList" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
